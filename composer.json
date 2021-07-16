@@ -1,5 +1,5 @@
 {
-  "name": "starkbank/sdk",
+  "name": "azpay/starkbank-sdk-php",
   "version": "2.7.0",
   "type": "library",
   "description": "SDK to facilitate PHP integrations with Stark Bank",
